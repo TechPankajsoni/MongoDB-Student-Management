@@ -1,0 +1,26 @@
+[
+  {
+    "roll_no": 101,
+    "name": "Rahul",
+    "course": "MCA",
+    "marks": 95
+  },
+  {
+    "roll_no": 102,
+    "name": "Amit",
+    "course": "MCA",
+    "marks": 78
+  },
+  {
+    "roll_no": 103,
+    "name": "Priya",
+    "course": "BCA",
+    "marks": 91
+  },
+  {
+    "roll_no": 104,
+    "name": "Neha",
+    "course": "MCA",
+    "marks": 88
+  }
+]
